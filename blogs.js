@@ -371,28 +371,31 @@ var l182='JibUDCzkKis';
 var s182='たすけてどらえもん';
 var l183='8Gj2g_k3n8U';
 var s183='【アイのシナリオ】歌ってみた ver.Gero';
-var l='6kR44t-CLvI';
-var s='NEW GAME! ED FULL「Now Loading!!!!」';
-var l='MmCJkdB4k8A';
-var s='NEW GAME! OP FULL「SAKURAスキップ」';
-var l='KHHjxCJpeKw';
-var s='青春は残酷じゃない';
-var l='esygfRAVLPo';
-var s='Ψです I LIKE YOU';
-var l='y3RkRhaJPIc';
-var s='Re：ゼロから始める異世界生活 OP 『Redo』 Full';
-var l='POXKzyjGafc';
-var s='Re:ゼロから始める異世界生活(リゼロ) ED ';
-var l='zyk-Q7gzGqs';
-var s='『Stay Alive』 Full ／エミリア 【リゼロ ED 2】';
-var l='wHMt0wgdfLY';
-var s='暗殺教室第二季ED2完整版-また君に会える日';
-var l='8H3BXQsudJU';
-var s='バイバイYESTERDAY';
-var l='TEviDZgKl1w';
-var s='クリープハイプ -「鬼」';
-var l='VEYd9SlTJ48';
-var s='この美術部には問題がある！」ED';
+var l184='6kR44t-CLvI';
+var s184='NEW GAME! ED FULL「Now Loading!!!!」';
+var l185='MmCJkdB4k8A';
+var s185='NEW GAME! OP FULL「SAKURAスキップ」';
+var l186='KHHjxCJpeKw';
+var s186='青春は残酷じゃない';
+var l187='esygfRAVLPo';
+var s187='Ψです I LIKE YOU';
+var l188='y3RkRhaJPIc';
+var s188='Re：ゼロから始める異世界生活 OP 『Redo』 Full';
+var l189='POXKzyjGafc';
+var s189='Re:ゼロから始める異世界生活(リゼロ) ED ';
+var l190='zyk-Q7gzGqs';
+var s190='『Stay Alive』 Full ／エミリア 【リゼロ ED 2】';
+var l191='wHMt0wgdfLY';
+var s191='暗殺教室第二季ED2完整版-また君に会える日';
+var l192='8H3BXQsudJU';
+var s192='バイバイYESTERDAY';
+var l193='TEviDZgKl1w';
+var s193='クリープハイプ -「鬼」';
+var l194='VEYd9SlTJ48';
+var s194='この美術部には問題がある！」ED';
+var l195='NcphTDSdo8Y';
+var s195='この美術部には問題がある！」OP';
+/*
 var l='';
 var s='';
 var l='';
@@ -403,15 +406,14 @@ var l='';
 var s='';
 var l='';
 var s='';
-var l='';
-var s='';
+*/
 
 //再生される動画固有コードと動画タイトル
 var link1 = '0';
 var title1 = "test";
 
 //動画のリンク数
-var num =184;
+var num =196;
 
 //動画のリンク数の中から乱数を１つ抽出しrandに代入
 var rand = Math.floor(Math.random() * num);
@@ -458,7 +460,7 @@ if (user == 'select') {
 
 } else if (user == 'lala-lalan1'　 || user == 'なまこす') {
 
-  pop2("なまこすり", 57);
+  pop2("なまこす", 57);
 
 } else if (user == 'manaya-pigu') {
 
