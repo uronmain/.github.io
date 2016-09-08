@@ -367,13 +367,32 @@ var l180='XhrCbZBAC7M';
 var s180='Red Hot Chili Peppers - Stadion Slaski, Chorzów, ';
 var l181='t5ht7o5r4iQ';
 var s181='Red Hot Chili Peppers - Live Earth, London, 2007 ';
-
 var l182='JibUDCzkKis';
 var s182='たすけてどらえもん';
 var l183='8Gj2g_k3n8U';
 var s183='【アイのシナリオ】歌ってみた ver.Gero';
-
-/*
+var l='6kR44t-CLvI';
+var s='NEW GAME! ED FULL「Now Loading!!!!」';
+var l='MmCJkdB4k8A';
+var s='NEW GAME! OP FULL「SAKURAスキップ」';
+var l='KHHjxCJpeKw';
+var s='青春は残酷じゃない';
+var l='esygfRAVLPo';
+var s='Ψです I LIKE YOU';
+var l='y3RkRhaJPIc';
+var s='Re：ゼロから始める異世界生活 OP 『Redo』 Full';
+var l='POXKzyjGafc';
+var s='Re:ゼロから始める異世界生活(リゼロ) ED ';
+var l='zyk-Q7gzGqs';
+var s='『Stay Alive』 Full ／エミリア 【リゼロ ED 2】';
+var l='wHMt0wgdfLY';
+var s='暗殺教室第二季ED2完整版-また君に会える日';
+var l='8H3BXQsudJU';
+var s='バイバイYESTERDAY';
+var l='TEviDZgKl1w';
+var s='クリープハイプ -「鬼」';
+var l='VEYd9SlTJ48';
+var s='この美術部には問題がある！」ED';
 var l='';
 var s='';
 var l='';
@@ -386,9 +405,6 @@ var l='';
 var s='';
 var l='';
 var s='';
-
-
-*/
 
 //再生される動画固有コードと動画タイトル
 var link1 = '0';
