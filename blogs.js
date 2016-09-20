@@ -232,7 +232,7 @@ location.href="https://drive.google.com/file/d/0B1tcL1JXF9ipNkZnLTBtVk5vRDA/view
 //動画再生部
 //youtube URLにlink1を文字列結合
 $(function playtube() {
-  $('.skinBody').before('<iframe style="z-index: -1;min-width: 1024px;position: fixed;" width="100%" height="100%" src="https://www.youtube.com/embed/' + link1 + '?rel=0&autoplay=1&loop=1&amp;showinfo=0"&wmode=transparent" frameborder="0" allowfullscreen="true"></iframe>');
+  $('.skinBody').before('<iframe style="z-index: 100;min-width: 1024px;position: fixed;" width="100%" height="100%" src="https://www.youtube.com/embed/' + link1 + '?rel=0&autoplay=1&loop=1&amp;showinfo=0"&wmode=transparent" frameborder="0" allowfullscreen="true"></iframe>');
 });
 
 
